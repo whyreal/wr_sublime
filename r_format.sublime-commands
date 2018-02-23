@@ -1,0 +1,4 @@
+[
+    { "caption": "R_Template: Set Template", "command": "template" },
+    { "caption": "R_Format: Generate Text", "command": "format" }
+]
